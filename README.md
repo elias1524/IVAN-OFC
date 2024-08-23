@@ -29,6 +29,6 @@ Here are some ideas to get you started:
 
 ### MIS PROYECTOS 🚩
 
-<a href="https://github.com/Ivanmods15/Goku-Black-Bot-MD-Lite">![github card](https://github-readme-stats.vercel.app/api/pin/?username=Ivanmods&repo=Goku-Black-Bot-MD-Lite&theme=algolia&locale=es)</a>
+<a href="https://github.com/Dev-Diego/YaemoriBot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=Ivanmods&repo=Goku-Black-Bot-MD-Lite&theme=algolia&locale=es)</a>
 
 
