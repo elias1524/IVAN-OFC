@@ -1,6 +1,6 @@
 ## MI PERFIL 🥷
 
-<a href="https://github.com/Ivanmods15"><img src="https://cardivo.vercel.app/api?name=Ivanmods15&description=Hola+Soy+Dev+Ivan+Creador+de+Goku-Black-Bot-MD-Lite.&image=https://telegra.ph/file/218bb0ab792902a57d7ae.jpg/revision/latest?cb=20200606024545&usqp=CAU&usqp=CAU&backgroundColor=%23ecf0f1&instagram=Ivanmods15&whatsapp=Iván&pattern=leaf&colorPattern=%23eaeaea" /><a>
+<a href="https://github.com/Ivanmods15"><img src="https://cardivo.vercel.app/api?name=Ivanmods15&description=Hola+Soy+Ivan+Creador+de+Goku-Black-Bot-MD-Lite.&image=https://telegra.ph/file/218bb0ab792902a57d7ae.jpg/revision/latest?cb=20200606024545&usqp=CAU&usqp=CAU&backgroundColor=%23ecf0f1&instagram=Ivanmods15&whatsapp=Iván&pattern=leaf&colorPattern=%23eaeaea" /><a>
  
 
 <!--
