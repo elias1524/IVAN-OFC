@@ -29,16 +29,4 @@ Here are some ideas to get you started:
 
 ### MIS PROYECTOS 🚩
 
-<a href="https://github.com/Dev-Diego/YaemoriBot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=Dev-Diego&repo=YaemoriBot-MD&theme=algolia&locale=es)</a>
-
-### COLABORACIONES 🍟
-
-<a href="https://github.com/BrunoSobrino/TheMystic-Bot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=BrunoSobrino&repo=TheMystic-Bot-MD&theme=algolia&locale=es)</a>
-
-<a href="https://github.com/Jxtxn17/BaileyBot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=Jxtxn17&repo=BaileyBot-MD&theme=algolia&locale=es)</a>
-
-<a href="https://github.com/MoonContentCreator/BixbyBot-Md">![github card](https://github-readme-stats.vercel.app/api/pin/?username=MoonContentCreator&repo=BixbyBot-Md&theme=react&locale=es)</a>
-
-<a href="https://github.com/WilsonOFC/MylingBot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=WilsonOFC&repo=MylingBot-MD&theme=algolia&locale=es)</a>
-
-<a href="https://github.com/elrebelde21/NovaBot_MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=elrebelde21&repo=NovaBot_MD&theme=algolia&locale=es)</a>
+<a href="https://github.com/Ivanmods15/Goku-Black-Bot-MD-Lite">![github card](https://github-readme-stats.vercel.app/api/pin/?username=Ivanmods&repo=Goku-Black-Bot-MD-Lite&theme=algolia&locale=es)</a>
